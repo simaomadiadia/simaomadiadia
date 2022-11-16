@@ -3,7 +3,7 @@
 
 ![Simão Madiadia's GitHub stats](https://github-readme-stats.vercel.app/api?username=simaomadiadia&show_icons=true&theme=dracula)
 
-## 🚀My Skills.
+### 🚀My Skills.
 <div style="display:inline_block">
 <img align="center" alt="" src="https://img.
 shields.io/badge/JavaScript-F7DF1E?
@@ -41,21 +41,20 @@ logoColor=black">
 <img align="center" alt="" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white">
 <img align="center" alt="" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
 <img align="center" alt="" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
-<img align="center" alt="" src="">
-<img align="center" alt="" src="">
+
 
 </div> 
-### 👨‍💻 Office
+
+### 👨‍💻Office
 
 <div style="display:inline_block">
-
 <img align="center" alt="" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 <img align="center" alt="" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
 <img align="center" alt="" src="">
 
 </div>
 
-## 💻 OS- Operating system
+### 💻 OS- Operating system
 
 <div style="display:inline_block">
 
@@ -63,7 +62,7 @@ logoColor=black">
 <img align="center" alt="" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div>
 
-## 📚 Education
+### 📚 Education
 
 <div style="display:inline_block">
 
